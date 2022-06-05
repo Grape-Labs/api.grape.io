@@ -1,15 +1,22 @@
 [{
     "name":"Bears Reloaded",
     "author":"The Sanctuary",
+    "ah":"",
+    "rate":"1",
+    "shr":"0.5",
     "tensorId":"",
     "address":"123456789",
     "status":1,
     "size":10000,
     "owners":5500,
-    "volume":80000,
+    "volume":81160,
+    "entangleFrom":"123456789",
+    "entangleTo":"",
+    "entangleUrl":"",
+    "enforceEntangle":false,
     "description":"10,000 algo-generated, unique, cute & collectible Bears. - The Sanctuary",
     "links":{
-        "url":"",
+        "url":"https://www.solsanctuary.io/",
         "discord":"discord.gg/solsanctuary",
         "twitter":"@BearsReloaded",
         "instagram":""
@@ -55,6 +62,32 @@
             "Lavender Sun":"25.21"
         }
     }
+},{
+    "name":"SolBears",
+    "author":"The Sanctuary",
+    "ah":"",
+    "rate":"1",
+    "shr":"0.5",
+    "tensorId":"",
+    "address":"8749adNqCXzVjdYVCUFcjUUxsPcHuCW482roGqsxtMRX",
+    "status":1,
+    "size":10000,
+    "owners":5500,
+    "volume":81160,
+    "entangleFrom":"",
+    "entangleTo":"123456789",
+    "entangleUrl":"",
+    "enforceEntangle":true,
+    "description":"10,000 algo-generated, unique, cute & collectible Bears. - The Sanctuary",
+    "links":{
+        "url":"https://www.solsanctuary.io/",
+        "discord":"discord.gg/solsanctuary",
+        "twitter":"@BearsReloaded",
+        "instagram":""
+    },
+    "logo":"8749adNqCXzVjdYVCUFcjUUxsPcHuCW482roGqsxtMRX.logo.png",
+    "splash":"8749adNqCXzVjdYVCUFcjUUxsPcHuCW482roGqsxtMRX.splash.png",
+    "attributes":{}
 },{
     "name":"Solanauts",
     "tensorId":"BDYYJ1VzPDXwJoARMZNnN4MX4cZNjVvc5DfFaKzgrruz",
